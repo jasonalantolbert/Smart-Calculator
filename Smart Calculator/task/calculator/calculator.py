@@ -3,10 +3,6 @@
 # Python Version: 3.8
 
 
-# This program was written as part of a JetBrains Academy project.
-# For more information, visit https://hyperskill.org/projects/74.
-
-
 # BEGINNING OF PROGRAM
 
 import re
